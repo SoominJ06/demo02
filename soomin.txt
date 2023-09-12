@@ -1,1 +1,2 @@
 "hello from soomin" 
+goodbye from soomin 
